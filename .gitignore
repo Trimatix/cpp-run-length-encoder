@@ -1,0 +1,7 @@
+.vscode/*
+encoder.exe
+encoder.ilk
+encoder.obj
+encoder.pdb
+vc140.pdb
+open-vscode-workspace.bat
