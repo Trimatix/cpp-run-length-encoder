@@ -1,4 +1,6 @@
 # jRLE
+This is a sanitised copy of a private repository, and so does not contain the project commit history.
+
 ## A Simple Run-Length Encoder
 Simple run-length encoder written in C++, written for an employment test.
 
